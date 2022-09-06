@@ -1,1 +1,1 @@
-# .github
+Building an internet of things based smart network to help the electricity department to locate the linefaults and correct the line faults correctly quickly and efficiently
